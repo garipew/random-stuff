@@ -1,3 +1,4 @@
+<title> Binary to decimal
 A binary to decimal converter.
 
 Converts binary numbers with 19 or less digits to decimal numbers.
