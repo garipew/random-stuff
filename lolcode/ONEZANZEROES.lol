@@ -40,7 +40,6 @@ HAI 1.12
 
 	IM IN YR LOOP
 		
-		
 		BOTH SAEM bin AN 0, O RLY? 
 			YA RLY, BTW if(bin == 0)
 				GTFO
