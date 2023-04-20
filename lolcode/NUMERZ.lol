@@ -1,0 +1,19 @@
+HAI 1.12
+
+	CAN HAS STDIO?
+	
+	I HAS A num
+
+	VISIBLE "Gimme a numer ::3"
+	GIMMEH num
+
+	BOTH SAEM MOD OF num AN 2 AN 0, O RLY?
+		YA RLY
+			VISIBLE "ITZ EVEN!1!!"
+		NO WAI
+			VISIBLE "ITZ ODD D::"
+	OIC
+
+
+
+KTHXBYE
